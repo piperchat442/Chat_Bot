@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.vaibhav.chat_bot.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/image_gallery"
+        android:orderInCategory="100"
+        android:title="gallery"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/contact"
+        android:orderInCategory="100"
+        android:title="Contact"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/bottomsheet"
+        android:orderInCategory="100"
+        android:title="BottomSheet"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/recycler"
+        android:orderInCategory="100"
+        android:title="Recycler"
+        app:showAsAction="never" />
+</menu>

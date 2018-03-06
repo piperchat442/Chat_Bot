@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chat_Bot</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_gallery">Photo</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="title_activity_bottom_sheet">BottomSheet</string>
+    <string name="title_activity_recycler">RecyclerAct</string>
+</resources>
